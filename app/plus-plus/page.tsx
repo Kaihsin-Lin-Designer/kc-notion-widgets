@@ -1,5 +1,5 @@
 "use client"
-import Counter from "./counter"
+import Counter from "./Counter"
 import { useSearchParams } from "next/navigation"
 
 const PlusPlus = () => {
