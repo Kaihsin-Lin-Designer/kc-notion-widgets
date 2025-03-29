@@ -6,7 +6,7 @@ const PlusPlus = () => {
 
     return(
         <main
-            className="flex flex-col"
+            className="flex flex-col p-4"
         >
             <Suspense fallback={<SuspendFallback/>}>
                 <Counter />
